@@ -1,2 +1,2 @@
-# EgeeEk-IA
+# EgeeEk-I
 AI in development.
